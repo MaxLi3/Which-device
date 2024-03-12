@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",                    // Specify the ECMAScript target version
+      "module": "commonjs",               // Specify module code generation
+      "strict": true,                     // Enable all strict type-checking options
+      "esModuleInterop": true,            // Allow default imports from modules with no default export
+      "forceConsistentCasingInFileNames": true, // Enforces a consistent casing in file names
+      "outDir": "./dist",                 // Output directory for compiled files
+      "sourceMap": true                   // Generate source maps for debugging
+    }
+  }
+  
+  
